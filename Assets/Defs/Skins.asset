@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36bd614878b0397478b131a93a91ad77, type: 3}
+  m_Name: Skins
+  m_EditorClassIdentifier: 
+  _collection:
+  - _id: defaultSkin
+    _skinPreview: {fileID: -4737576553076342843, guid: 8b0edef884b2c2648a408d35fe783f5b, type: 3}
+    _skin: {fileID: 3046873872368768936, guid: 067e5cac08d1cfc43857c39cf12d2ba6, type: 3}
+    _price: 0
+  - _id: NinjaSkin
+    _skinPreview: {fileID: 21300000, guid: 305144f3098ea9e478a61990f4f03245, type: 3}
+    _skin: {fileID: 7228948096396287060, guid: cca61cfd788f4c747a06bc10511f144e, type: 3}
+    _price: 70
+  - _id: Ganster
+    _skinPreview: {fileID: 4628278728427698938, guid: 18dd77c4bd919134c9bc64c8ac8b0a00, type: 3}
+    _skin: {fileID: 8699116386828382623, guid: f1cec87f5a502d747879ba36033517da, type: 3}
+    _price: 100
+  - _id: CaptainPrice
+    _skinPreview: {fileID: 21300000, guid: 6ae13934479ea2a45b6d5676462804cb, type: 3}
+    _skin: {fileID: 892194777249974597, guid: d3721965a692a1c4f99579a815d925ba, type: 3}
+    _price: 120
+  - _id: HitmanSkin
+    _skinPreview: {fileID: -3180075216094492161, guid: 56fa2b0e329a0f24c9433ded797ef0ba, type: 3}
+    _skin: {fileID: 8888907614587729089, guid: 1f8c2ee2e2f72514a919c6741b6afa50, type: 3}
+    _price: 150

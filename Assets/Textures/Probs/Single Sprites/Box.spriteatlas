@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Box
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9dabba9b87e6e6b45a3a05eefc5e782c, type: 3}
+    - {fileID: 2800000, guid: d47b8d5423602a64cba4f53b35249617, type: 3}
+    - {fileID: 2800000, guid: 88a5ee3ed6de77445b50a6a67a48fb4d, type: 3}
+    - {fileID: 2800000, guid: e78b5d942937cee4ea1bbe0ab8a3d79a, type: 3}
+    - {fileID: 2800000, guid: 472c25fe615f6c74d809d528f3f9fe60, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d47b8d5423602a64cba4f53b35249617, type: 3}
+  - {fileID: 21300000, guid: e78b5d942937cee4ea1bbe0ab8a3d79a, type: 3}
+  - {fileID: 21300000, guid: 9dabba9b87e6e6b45a3a05eefc5e782c, type: 3}
+  - {fileID: 21300000, guid: 88a5ee3ed6de77445b50a6a67a48fb4d, type: 3}
+  - {fileID: 21300000, guid: 472c25fe615f6c74d809d528f3f9fe60, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Box_0002
+  - Wood _Skewer_0002
+  - Box_0001
+  - Wood _Skewer_0001
+  - Wood _Skewer_0003
+  m_RenderDataMap: {}
+  m_Tag: Box
+  m_IsVariant: 0

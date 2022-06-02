@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cursor
+  - MainConvas
+  - Hittable
+  - Damage
+  - Window
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Enemy
+  - Bulllet
+  - Box
+  - Trash
+  - Spikes
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bullet
+    uniqueID: 3724127461
+    locked: 0
+  - name: TileMap
+    uniqueID: 878881769
+    locked: 0
+  - name: Probs
+    uniqueID: 3467003409
+    locked: 0
+  - name: Hero
+    uniqueID: 1261160735
+    locked: 0

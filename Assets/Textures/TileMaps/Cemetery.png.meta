@@ -1,0 +1,1362 @@
+fileFormatVersion: 2
+guid: 11f9913b617fc024da13202e3b92b4d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5535881783676608107
+    second: Cemetery_0
+  - first:
+      213: -5052686834197527948
+    second: Cemetery_1
+  - first:
+      213: 3465781855541536029
+    second: Cemetery_2
+  - first:
+      213: 6130091995595376605
+    second: Cemetery_3
+  - first:
+      213: -6780311545870502837
+    second: Cemetery_4
+  - first:
+      213: 8561465560003450142
+    second: Cemetery_5
+  - first:
+      213: 1597032718201396142
+    second: Cemetery_6
+  - first:
+      213: -7980225860793870158
+    second: Cemetery_7
+  - first:
+      213: -791140614595005742
+    second: Cemetery_8
+  - first:
+      213: -8346896363508173234
+    second: Cemetery_9
+  - first:
+      213: -2479664006028663955
+    second: Cemetery_10
+  - first:
+      213: 3777633014124246841
+    second: Cemetery_11
+  - first:
+      213: 4857863371163502593
+    second: Cemetery_12
+  - first:
+      213: 1023884302463690840
+    second: Cemetery_13
+  - first:
+      213: -4357076823613515660
+    second: Cemetery_14
+  - first:
+      213: 4551328323413959392
+    second: Cemetery_15
+  - first:
+      213: 284360440613663444
+    second: Cemetery_16
+  - first:
+      213: -9000837857872576660
+    second: Cemetery_17
+  - first:
+      213: -106744677133436046
+    second: Cemetery_18
+  - first:
+      213: -2921388182658535761
+    second: Cemetery_19
+  - first:
+      213: 843723755843559253
+    second: Cemetery_20
+  - first:
+      213: 1498805614986870768
+    second: Cemetery_21
+  - first:
+      213: 2597375345526573165
+    second: Cemetery_22
+  - first:
+      213: -8575659774004569295
+    second: Cemetery_23
+  - first:
+      213: 8291377925866790643
+    second: Cemetery_24
+  - first:
+      213: 1126589989148220145
+    second: Cemetery_25
+  - first:
+      213: 2266454504708729379
+    second: Cemetery_26
+  - first:
+      213: 3654076463758583393
+    second: Cemetery_27
+  - first:
+      213: -8407511133597295431
+    second: Cemetery_28
+  - first:
+      213: 2873769529562545223
+    second: Cemetery_29
+  - first:
+      213: -7840362450034224278
+    second: Cemetery_30
+  - first:
+      213: 2550238479513988572
+    second: Cemetery_31
+  - first:
+      213: 414228140520694976
+    second: Cemetery_32
+  - first:
+      213: 1718383021937020338
+    second: Cemetery_33
+  - first:
+      213: -5755904894542182744
+    second: Cemetery_34
+  - first:
+      213: -3170843016708543566
+    second: Cemetery_35
+  - first:
+      213: 1924725989235350772
+    second: Cemetery_36
+  - first:
+      213: -4061087507458455971
+    second: Cemetery_37
+  - first:
+      213: -112968047298932817
+    second: Cemetery_38
+  - first:
+      213: -1228084419366733149
+    second: Cemetery_39
+  - first:
+      213: 4290917003567023967
+    second: Cemetery_40
+  - first:
+      213: 8784813055375730831
+    second: Cemetery_41
+  - first:
+      213: -6465784800950846926
+    second: Cemetery_42
+  - first:
+      213: -1800062705027114384
+    second: Cemetery_43
+  - first:
+      213: 3208518029928270436
+    second: Cemetery_44
+  - first:
+      213: -2485095448584428770
+    second: Cemetery_45
+  - first:
+      213: -4363355008700788892
+    second: Cemetery_46
+  - first:
+      213: 6221137942082217753
+    second: Cemetery_47
+  - first:
+      213: 6026740615868323671
+    second: Cemetery_48
+  - first:
+      213: -5331621068608526695
+    second: Cemetery_49
+  - first:
+      213: 6942567867317071103
+    second: Cemetery_50
+  - first:
+      213: -8065148997340986036
+    second: Cemetery_51
+  - first:
+      213: 2458106953144160327
+    second: Cemetery_53
+  - first:
+      213: -8378206603499844903
+    second: Cemetery_54
+  - first:
+      213: 6029219564737909580
+    second: Cemetery_55
+  - first:
+      213: -1723425765262155740
+    second: Cemetery_56
+  - first:
+      213: -2833230870831139206
+    second: Cemetery_57
+  - first:
+      213: -4542723738981060317
+    second: Cemetery_58
+  - first:
+      213: -339764593643102766
+    second: Cemetery_59
+  - first:
+      213: 6138258613976024942
+    second: Cemetery_60
+  - first:
+      213: 2710997836231951700
+    second: Cemetery_61
+  - first:
+      213: 8623278705813689949
+    second: Cemetery_62
+  - first:
+      213: -8240801647783247466
+    second: Cemetery_63
+  - first:
+      213: -4532911168532605387
+    second: Cemetery_64
+  - first:
+      213: -3728219761478489703
+    second: Cemetery_65
+  - first:
+      213: 7793485377560491687
+    second: Cemetery_66
+  - first:
+      213: -700321841393605881
+    second: Cemetery_67
+  - first:
+      213: 499644656107463292
+    second: Cemetery_68
+  - first:
+      213: -7129208370701127941
+    second: Cemetery_69
+  - first:
+      213: -568723361722209879
+    second: Cemetery_70
+  - first:
+      213: -7961786106548587730
+    second: Cemetery_71
+  - first:
+      213: -3749647799542821552
+    second: Cemetery_72
+  - first:
+      213: 6726055021844834052
+    second: Cemetery_73
+  - first:
+      213: 830803866404736231
+    second: Cemetery_74
+  - first:
+      213: -6094315145684576999
+    second: Cemetery_75
+  - first:
+      213: 152707904998079426
+    second: Cemetery_76
+  - first:
+      213: -5708223105699389428
+    second: Cemetery_77
+  - first:
+      213: -715560082796939820
+    second: Cemetery_78
+  - first:
+      213: 2631696864576999842
+    second: Cemetery_79
+  - first:
+      213: -2947437279889913986
+    second: Cemetery_80
+  - first:
+      213: 184234464946087424
+    second: Cemetery_81
+  - first:
+      213: -7291422870781953561
+    second: Cemetery_82
+  - first:
+      213: 3216203235174564272
+    second: Cemetery_83
+  - first:
+      213: 386362051811969319
+    second: Cemetery_84
+  - first:
+      213: -6774413909782724546
+    second: Cemetery_85
+  - first:
+      213: 3025014737943626838
+    second: Cemetery_86
+  - first:
+      213: 919233307638268288
+    second: Cemetery_87
+  - first:
+      213: -3992469200057589723
+    second: Cemetery_88
+  - first:
+      213: 4279793889753584747
+    second: Cemetery_89
+  - first:
+      213: -1829714098805960503
+    second: Cemetery_90
+  - first:
+      213: 8139522349692895177
+    second: Cemetery_91
+  - first:
+      213: -7427978373346047924
+    second: Cemetery_92
+  - first:
+      213: 2358814438841894995
+    second: Cemetery_93
+  - first:
+      213: -2873714452250595320
+    second: Cemetery_94
+  - first:
+      213: 2812003970966648148
+    second: Cemetery_95
+  - first:
+      213: -2846225149010999600
+    second: Cemetery_96
+  - first:
+      213: 6104515007914137024
+    second: Cemetery_97
+  - first:
+      213: -81504531788046547
+    second: Cemetery_98
+  - first:
+      213: -790233825685811163
+    second: Cemetery_99
+  - first:
+      213: 4377056626579896385
+    second: Cemetery_100
+  - first:
+      213: -8629220026361638513
+    second: Cemetery_101
+  - first:
+      213: 5016695999789928180
+    second: Cemetery_102
+  - first:
+      213: 7362245562783535726
+    second: Cemetery_103
+  - first:
+      213: 556891868123950537
+    second: Cemetery_104
+  - first:
+      213: -5252480276470448482
+    second: Cemetery_105
+  - first:
+      213: 3501130939437002053
+    second: Cemetery_106
+  - first:
+      213: -6660812854821035412
+    second: Cemetery_107
+  - first:
+      213: -7891554498573937409
+    second: Cemetery_108
+  - first:
+      213: 5768236317469581851
+    second: Cemetery_109
+  - first:
+      213: -4469739801429081958
+    second: Cemetery_110
+  - first:
+      213: 311064416810479106
+    second: Cemetery_111
+  - first:
+      213: 5440585869026101312
+    second: Cemetery_112
+  - first:
+      213: -8083588287503224014
+    second: Cemetery_113
+  - first:
+      213: 5684882769689802091
+    second: Cemetery_114
+  - first:
+      213: -1087611134704816832
+    second: Cemetery_115
+  - first:
+      213: 1136591173573100252
+    second: Cemetery_116
+  - first:
+      213: 2668676070943416448
+    second: Cemetery_117
+  - first:
+      213: 3043821473407605368
+    second: Cemetery_118
+  - first:
+      213: -932380901691166098
+    second: Cemetery_119
+  - first:
+      213: 259503496879244411
+    second: Cemetery_120
+  - first:
+      213: 2776832938742354662
+    second: Cemetery_121
+  - first:
+      213: -7615310350330684075
+    second: Cemetery_122
+  - first:
+      213: -4694161112209708995
+    second: Cemetery_123
+  - first:
+      213: 336407106745619934
+    second: Cemetery_124
+  - first:
+      213: -3923935234946326155
+    second: Cemetery_125
+  - first:
+      213: 875704064541326844
+    second: Cemetery_126
+  - first:
+      213: 7263043769524895511
+    second: Cemetery_127
+  - first:
+      213: 4438242863419703811
+    second: Cemetery_128
+  - first:
+      213: -4716845077748615807
+    second: Cemetery_129
+  - first:
+      213: -13540511482092854
+    second: Cemetery_130
+  - first:
+      213: -3922050552520406657
+    second: Cemetery_133
+  - first:
+      213: -2481499115772647660
+    second: Cemetery_134
+  - first:
+      213: -2505414928815827672
+    second: Cemetery_135
+  - first:
+      213: -7267824404227810001
+    second: Cemetery_136
+  - first:
+      213: -7116432834499245146
+    second: Cemetery_137
+  - first:
+      213: -1254531402367113529
+    second: Cemetery_138
+  - first:
+      213: 7422098508728711640
+    second: Cemetery_139
+  - first:
+      213: -5075629053928262417
+    second: Cemetery_140
+  - first:
+      213: -2205420727253809470
+    second: Cemetery_141
+  - first:
+      213: 7510103984234402343
+    second: Cemetery_142
+  - first:
+      213: 4930801970572996843
+    second: Cemetery_143
+  - first:
+      213: -2316275497996085772
+    second: Cemetery_144
+  - first:
+      213: -2180715527566895275
+    second: Cemetery_145
+  - first:
+      213: 4861319014212593419
+    second: Cemetery_146
+  - first:
+      213: 697729892812338685
+    second: Cemetery_147
+  - first:
+      213: -2829372012264602012
+    second: Cemetery_148
+  - first:
+      213: 3886368408022125522
+    second: Cemetery_149
+  - first:
+      213: 5046452491899393709
+    second: Cemetery_150
+  - first:
+      213: 4374328663473398953
+    second: Cemetery_151
+  - first:
+      213: -5412711860222059578
+    second: Cemetery_152
+  - first:
+      213: -1065662674376967026
+    second: Cemetery_153
+  - first:
+      213: 882121341533965645
+    second: Cemetery_154
+  - first:
+      213: 3483668757373734515
+    second: Cemetery_155
+  - first:
+      213: -1400457084229822303
+    second: Cemetery_156
+  - first:
+      213: -373678141454088395
+    second: Cemetery_157
+  - first:
+      213: 7380706288017125953
+    second: Cemetery_158
+  - first:
+      213: 8465433684394766165
+    second: Cemetery_159
+  - first:
+      213: -3252077557598399716
+    second: Cemetery_163
+  - first:
+      213: 7549716413524090028
+    second: Cemetery_164
+  - first:
+      213: -2232717635462459374
+    second: Cemetery_165
+  - first:
+      213: 7178062851130245075
+    second: Cemetery_166
+  - first:
+      213: 7477783732828746582
+    second: Cemetery_167
+  - first:
+      213: -3117054167971345715
+    second: Cemetery_168
+  - first:
+      213: -407999257835525214
+    second: Cemetery_169
+  - first:
+      213: 3680121006355766182
+    second: Cemetery_170
+  - first:
+      213: -1512987865348038507
+    second: Cemetery_171
+  - first:
+      213: 2293405207081930963
+    second: Cemetery_172
+  - first:
+      213: 689091055325343136
+    second: Cemetery_173
+  - first:
+      213: 2229164721610674806
+    second: Cemetery_174
+  - first:
+      213: 1035349615495653619
+    second: Cemetery_175
+  - first:
+      213: -2038011194400267729
+    second: Cemetery_176
+  - first:
+      213: 62495317062172250
+    second: Cemetery_177
+  - first:
+      213: -2796456329643104845
+    second: Cemetery_178
+  - first:
+      213: 44767210756351843
+    second: Cemetery_179
+  - first:
+      213: 900807645086850083
+    second: Cemetery_180
+  - first:
+      213: -4545596237080986325
+    second: Cemetery_181
+  - first:
+      213: -6093527647796876860
+    second: Cemetery_182
+  - first:
+      213: -7248633382124885990
+    second: Cemetery_183
+  - first:
+      213: -1513938525784137546
+    second: Cemetery_184
+  - first:
+      213: -359479597756119793
+    second: Cemetery_185
+  - first:
+      213: -4136132273521070393
+    second: Cemetery_186
+  - first:
+      213: -4495048740871165899
+    second: Cemetery_187
+  - first:
+      213: -6362132717957526584
+    second: Cemetery_188
+  - first:
+      213: 8840600388377750465
+    second: Cemetery_189
+  - first:
+      213: -8182009840240328373
+    second: Cemetery_190
+  - first:
+      213: -2516687880764553011
+    second: Cemetery_191
+  - first:
+      213: 3953634893651774025
+    second: Cemetery_192
+  - first:
+      213: -7571381738713124172
+    second: Cemetery_193
+  - first:
+      213: -6783476172982730223
+    second: Cemetery_194
+  - first:
+      213: -146781956539277394
+    second: Cemetery_195
+  - first:
+      213: -2094125422783553041
+    second: Cemetery_196
+  - first:
+      213: -3408916528193329695
+    second: Cemetery_197
+  - first:
+      213: -7762447574357865015
+    second: Cemetery_198
+  - first:
+      213: 8003935996122160370
+    second: Cemetery_199
+  - first:
+      213: 8660617092794664452
+    second: Cemetery_200
+  - first:
+      213: 8727638641111853204
+    second: Cemetery_201
+  - first:
+      213: 890620218093599930
+    second: Cemetery_202
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cemetery_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e9992e62763dc40800000000000000
+      internalID: 5535881783676608107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 488
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4720d56381041e9b0800000000000000
+      internalID: -5052686834197527948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d152c803c3ee81030800000000000000
+      internalID: 3465781855541536029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd78dedf036721550800000000000000
+      internalID: 6130091995595376605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44b8e9929e77e1a0800000000000000
+      internalID: -6780311545870502837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_5
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e151fb4f09f60d670800000000000000
+      internalID: 8561465560003450142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab1217bbccc92610800000000000000
+      internalID: 1597032718201396142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_8
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d23eab7dcd4505f0800000000000000
+      internalID: -791140614595005742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_9
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 424
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46781c2bfdd92c80800000000000000
+      internalID: -8346896363508173234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63e65e69b6769dd0800000000000000
+      internalID: -2479664006028663955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937f9aa2639dc6430800000000000000
+      internalID: 3777633014124246841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478dd65b6bd8883c0800000000000000
+      internalID: -4357076823613515660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e263450ff0992f30800000000000000
+      internalID: 4551328323413959392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ffd9028a9961380800000000000000
+      internalID: -9000837857872576660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_18
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 360
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b3ccd1844c48ef0800000000000000
+      internalID: -106744677133436046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae2d911de42577d0800000000000000
+      internalID: -2921388182658535761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 296
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff37ac04c3dcc410800000000000000
+      internalID: 1498805614986870768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6808728d1bbb0420800000000000000
+      internalID: 2597375345526573165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bd9df0fd22df880800000000000000
+      internalID: -8575659774004569295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe1ec14b44e01370800000000000000
+      internalID: 8291377925866790643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 232
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a6fb42d50147f10800000000000000
+      internalID: 2266454504708729379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_28
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc9acc3b25825b80800000000000000
+      internalID: -8407511133597295431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_29
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cbae7492ea1e720800000000000000
+      internalID: 2873769529562545223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_31
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdda6f7a264446320800000000000000
+      internalID: 2550238479513988572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_32
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4e4b39c42afb500800000000000000
+      internalID: 414228140520694976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd4e9a014ce8d710800000000000000
+      internalID: 1718383021937020338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_34
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a681e79efaee10b0800000000000000
+      internalID: -5755904894542182744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_36
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcd55ee61006ba10800000000000000
+      internalID: 1924725989235350772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d568924bd6e14a7c0800000000000000
+      internalID: -4061087507458455971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_39
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa347d2ab7f4fee0800000000000000
+      internalID: -1228084419366733149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cemetery_40
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 104
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57cb4ec7466c8b30800000000000000
+      internalID: 4290917003567023967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cemetery
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 3777633014124246841, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: -2479664006028663955, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: 4551328323413959392, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: -4357076823613515660, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: -9000837857872576660, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: -2921388182658535761, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: -106744677133436046, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: -8407511133597295431, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: 2873769529562545223, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: -791140614595005742, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: -8346896363508173234, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: -1228084419366733149, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: 3465781855541536029, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: 6130091995595376605, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: 1498805614986870768, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: 5535881783676608107, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: 2597375345526573165, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: -5052686834197527948, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: -8575659774004569295, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: 1718383021937020338, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: 1597032718201396142, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: 8291377925866790643, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: 414228140520694976, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: 4290917003567023967, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: 2550238479513988572, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: -6780311545870502837, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: 2266454504708729379, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: 8561465560003450142, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: -4061087507458455971, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: 1924725989235350772, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  - {fileID: -5755904894542182744, guid: 11f9913b617fc024da13202e3b92b4d0, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Cemetery_11
+  - Cemetery_10
+  - Cemetery_15
+  - Cemetery_14
+  - Cemetery_17
+  - Cemetery_19
+  - Cemetery_18
+  - Cemetery_28
+  - Cemetery_29
+  - Cemetery_8
+  - Cemetery_9
+  - Cemetery_39
+  - Cemetery_2
+  - Cemetery_3
+  - Cemetery_21
+  - Cemetery_0
+  - Cemetery_22
+  - Cemetery_1
+  - Cemetery_23
+  - Cemetery_33
+  - Cemetery_6
+  - Cemetery_24
+  - Cemetery_32
+  - Cemetery_40
+  - Cemetery_31
+  - Cemetery_4
+  - Cemetery_26
+  - Cemetery_5
+  - Cemetery_37
+  - Cemetery_36
+  - Cemetery_34
+  m_RenderDataMap: {}
+  m_Tag: Cemetery
+  m_IsVariant: 0

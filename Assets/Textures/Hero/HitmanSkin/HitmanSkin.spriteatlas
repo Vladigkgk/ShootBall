@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HitmanSkin
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: b590d51d7991ddc4c9fcc986b17aec4c, type: 3}
+    - {fileID: 2800000, guid: e6c90540be90d6b46bf7c2eca221b4b8, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 930434223430288299, guid: e6c90540be90d6b46bf7c2eca221b4b8, type: 3}
+  - {fileID: 9052289550823604311, guid: e6c90540be90d6b46bf7c2eca221b4b8, type: 3}
+  - {fileID: -6346302389930645972, guid: e6c90540be90d6b46bf7c2eca221b4b8, type: 3}
+  - {fileID: -4719773964348401187, guid: e6c90540be90d6b46bf7c2eca221b4b8, type: 3}
+  - {fileID: -4376718210565671471, guid: e6c90540be90d6b46bf7c2eca221b4b8, type: 3}
+  - {fileID: 6923503388862198076, guid: b590d51d7991ddc4c9fcc986b17aec4c, type: 3}
+  - {fileID: 1894949328961455752, guid: b590d51d7991ddc4c9fcc986b17aec4c, type: 3}
+  - {fileID: -7920383511549802019, guid: b590d51d7991ddc4c9fcc986b17aec4c, type: 3}
+  - {fileID: 6912701466424950040, guid: b590d51d7991ddc4c9fcc986b17aec4c, type: 3}
+  - {fileID: 2444061931719312332, guid: b590d51d7991ddc4c9fcc986b17aec4c, type: 3}
+  - {fileID: -9044908755412990490, guid: b590d51d7991ddc4c9fcc986b17aec4c, type: 3}
+  - {fileID: -5493276334519537356, guid: b590d51d7991ddc4c9fcc986b17aec4c, type: 3}
+  - {fileID: 8862289951267602676, guid: b590d51d7991ddc4c9fcc986b17aec4c, type: 3}
+  - {fileID: -8735464219945278633, guid: b590d51d7991ddc4c9fcc986b17aec4c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - TrashHitman_3
+  - TrashHitman_2
+  - TrashHitman_1
+  - TrashHitman_0
+  - TrashHitman_4
+  - idle_4
+  - idle_0
+  - idle_1
+  - idle_2
+  - idle_3
+  - shoot_8
+  - shoot_5
+  - shoot_7
+  - shoot_6
+  m_RenderDataMap: {}
+  m_Tag: HitmanSkin
+  m_IsVariant: 0
