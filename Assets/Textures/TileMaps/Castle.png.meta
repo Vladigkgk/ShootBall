@@ -132,7 +132,7 @@ TextureImporter:
       213: 486490966371258953
     second: Castle_42
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -153,6 +153,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -191,6 +192,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -218,6 +220,42 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1144,6 +1182,50 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Castle_0: -6754239384357436178
+      Castle_1: 6906767639317418099
+      Castle_10: -1736760709017178869
+      Castle_11: 7967668750229459883
+      Castle_12: -8683591605262331235
+      Castle_13: 5773388809163530335
+      Castle_14: 5427314472495278648
+      Castle_15: -5185617447438664962
+      Castle_16: 6838273695970949187
+      Castle_17: 6343830652352565948
+      Castle_18: 4391814738428255192
+      Castle_19: -3795720944560346708
+      Castle_2: 7803579835838553921
+      Castle_20: 6819683084161425668
+      Castle_21: -1609143546227108842
+      Castle_22: -1404115098925430142
+      Castle_23: -779453562325441068
+      Castle_24: 430629103723400450
+      Castle_25: 9038399123823508952
+      Castle_26: 781807726365533499
+      Castle_27: 4989960586259013592
+      Castle_28: -5531943321464528205
+      Castle_29: 7542390983593812097
+      Castle_3: -1682882690250861636
+      Castle_30: -2204218097580962714
+      Castle_31: 464114312144006252
+      Castle_32: 7500674364360254742
+      Castle_33: -4552862586666163744
+      Castle_34: 859878449597269465
+      Castle_35: 7059331026632700240
+      Castle_36: 4560019785069071703
+      Castle_37: 6001507995699417439
+      Castle_38: -1814156446696734081
+      Castle_39: 6420436966992209846
+      Castle_4: -77001387259621195
+      Castle_40: -3566987879499669825
+      Castle_41: 4961209322784281664
+      Castle_42: 486490966371258953
+      Castle_5: -5260175630729947354
+      Castle_6: -6935640475148911074
+      Castle_7: 4606979011566258888
+      Castle_8: 2996507498748529137
+      Castle_9: -5426138607464267151
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

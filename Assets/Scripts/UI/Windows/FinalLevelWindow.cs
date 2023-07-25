@@ -1,5 +1,4 @@
 ﻿using System.Collections;
-using Assets.Scripts.Ads;
 using Assets.Scripts.Components.LevelMeneger;
 using Assets.Scripts.Model;
 using UnityEngine;
@@ -15,7 +14,6 @@ namespace Assets.Scripts.UI.Windows
         [SerializeField] protected Text _coinsCount;
 
         private GameSession _session;
-        private InterstitialAd _ads;
 
         protected virtual void Awake()
         {
@@ -26,11 +24,6 @@ namespace Assets.Scripts.UI.Windows
             
             _levelCount.text = SetActiveLevel();
             SetEnemyAndCoins();
-        }
-
-        private void Start()
-        {
-            _ads = FindObjectOfType<InterstitialAd>();
         }
 
         protected virtual void SetEnemyAndCoins()
@@ -54,35 +47,18 @@ namespace Assets.Scripts.UI.Windows
 
         public void LoadNextLevel()
         {
-            var testscene = SceneManager.GetActiveScene();
-            if (!string.IsNullOrEmpty(_session.Data.LastEventLevel.Value))
-            {
-                var finalSceneEvent = SceneManager.GetSceneByName(_session.Data.LastEventLevel.Value);
-                Debug.Log(finalSceneEvent.buildIndex);
-                if (finalSceneEvent.buildIndex == testscene.buildIndex)
-                {
-                    _session.Data.CurrentLevel.Value = _session.Data.NormalLevel.Value;
-                    _session.Save();
-                    SceneManager.LoadSceneAsync(_session.Data.NormalLevel.Value);
-                    return;
-
-                }
-            }
-            var index = testscene.buildIndex + 1;
-            var scene = SceneManager.GetSceneByBuildIndex(index);
-            if (scene.name == "Hud")
+            var scene = SceneManager.GetActiveScene();
+            Debug.Log(scene.buildIndex + 1);
+            var nextScene = SceneManager.GetSceneByBuildIndex(scene.buildIndex + 1);
+            var index = scene.buildIndex + 1;
+            Debug.Log(index);
+            if (nextScene.name == "Hud")
             {
                 index = 1;
             }
             _session.Data.CurrentLevel.Value = index;
             _session.Save();
-            if (index % 7 == 0)
-            {
-                _ads.SetIndex(index);
-                _ads.LoadAd();
-                return;
-            }
-            SceneManager.LoadSceneAsync(index);
+            SceneManager.LoadScene(index);
         }
     }
 }

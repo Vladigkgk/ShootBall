@@ -381,7 +381,7 @@ TextureImporter:
       213: 2697395475574460487
     second: Cemetery 2_125
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -402,6 +402,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -440,6 +441,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -467,6 +469,42 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -3136,6 +3174,133 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Cemetery 2_0: -4444402267360676661
+      Cemetery 2_1: 6399706454605051050
+      Cemetery 2_10: 2129061457487546999
+      Cemetery 2_100: 1138443996222631985
+      Cemetery 2_101: 4615941675433081664
+      Cemetery 2_102: 1695127779049977188
+      Cemetery 2_103: 6057923903591283333
+      Cemetery 2_104: -8601944842261511041
+      Cemetery 2_105: -3398000865341701401
+      Cemetery 2_106: -2478013850875491085
+      Cemetery 2_107: -8498526792488188966
+      Cemetery 2_108: 6542772227866323868
+      Cemetery 2_109: -1062707636213443521
+      Cemetery 2_11: -6214328429113659746
+      Cemetery 2_110: -3975056871106362104
+      Cemetery 2_111: 7078850493734652783
+      Cemetery 2_112: 6466708698038606453
+      Cemetery 2_113: -5141567279931979053
+      Cemetery 2_114: 184515630842820458
+      Cemetery 2_115: -50449662851324033
+      Cemetery 2_116: -5258040356041702251
+      Cemetery 2_117: 5971089470890703978
+      Cemetery 2_118: 7056723612473043275
+      Cemetery 2_119: 610738367001203653
+      Cemetery 2_12: 1637351033135376529
+      Cemetery 2_120: 4470018226314628242
+      Cemetery 2_121: 5642621899238203872
+      Cemetery 2_122: 5032383686236980657
+      Cemetery 2_123: 1107235034619035834
+      Cemetery 2_124: 1261783659979283297
+      Cemetery 2_125: 2697395475574460487
+      Cemetery 2_13: 1927416519523569140
+      Cemetery 2_14: 7511695794952832707
+      Cemetery 2_15: -2188910072036096603
+      Cemetery 2_16: 6266302112660181402
+      Cemetery 2_17: -3869729527739535349
+      Cemetery 2_18: -4931537122698595510
+      Cemetery 2_19: 196048879615010939
+      Cemetery 2_2: -8286266905146709898
+      Cemetery 2_20: -5907412249452074678
+      Cemetery 2_21: -1935759117392334428
+      Cemetery 2_22: -139509721846367877
+      Cemetery 2_23: -423351609020537109
+      Cemetery 2_24: 6139508052596948359
+      Cemetery 2_25: -4049293265806257421
+      Cemetery 2_26: -8370376893744899778
+      Cemetery 2_27: 3068133234254291350
+      Cemetery 2_28: 1916847967733829387
+      Cemetery 2_29: -6961348869550723841
+      Cemetery 2_3: 5715203321799191843
+      Cemetery 2_30: -7462756314918396132
+      Cemetery 2_31: -6459936082353981897
+      Cemetery 2_32: -1285387838448175709
+      Cemetery 2_33: -874405669469058042
+      Cemetery 2_34: 3558726947323797243
+      Cemetery 2_35: -7084846414622555236
+      Cemetery 2_36: -8782753235076727888
+      Cemetery 2_37: 1672788919025214529
+      Cemetery 2_38: -1944085920624287699
+      Cemetery 2_39: -2945388826995561337
+      Cemetery 2_4: 3368225936197911006
+      Cemetery 2_40: 4370935371984662013
+      Cemetery 2_41: 1160337988240625961
+      Cemetery 2_42: -2491544403688940485
+      Cemetery 2_43: -8619349124522744985
+      Cemetery 2_44: -4568185210163884134
+      Cemetery 2_45: 3364235076982274752
+      Cemetery 2_46: 3607464261632401304
+      Cemetery 2_47: 2339861181094699203
+      Cemetery 2_48: 4881399546889449163
+      Cemetery 2_49: 5379587603007664400
+      Cemetery 2_5: -4179130771717056199
+      Cemetery 2_50: -3460522196138304635
+      Cemetery 2_51: 46272862759991951
+      Cemetery 2_52: -7724949573729970235
+      Cemetery 2_53: 4232812535489681239
+      Cemetery 2_54: -8346924608105898149
+      Cemetery 2_55: 4971337227339393628
+      Cemetery 2_56: 5255676798141915531
+      Cemetery 2_57: -2657768941731168120
+      Cemetery 2_58: 844289742380166293
+      Cemetery 2_59: -7227811420160951491
+      Cemetery 2_6: -5318913831966653399
+      Cemetery 2_60: 3697832703222821836
+      Cemetery 2_61: -3759552499233830575
+      Cemetery 2_62: -7703422008188469976
+      Cemetery 2_63: -5601855665979177505
+      Cemetery 2_64: 718708816186332610
+      Cemetery 2_65: -3246491267821839701
+      Cemetery 2_66: 7881727834235924348
+      Cemetery 2_67: 2766404795889626735
+      Cemetery 2_68: 5543391151414505533
+      Cemetery 2_69: 9102806572700701604
+      Cemetery 2_7: -4859669578325561036
+      Cemetery 2_70: 844605078962389670
+      Cemetery 2_71: -1280619294837818207
+      Cemetery 2_72: 4794965118024729745
+      Cemetery 2_73: -1838542902380192271
+      Cemetery 2_74: 4753251862997065853
+      Cemetery 2_75: -7824376270505794127
+      Cemetery 2_76: -5955937432504320162
+      Cemetery 2_77: -6095498108798642359
+      Cemetery 2_78: -2778287144354136925
+      Cemetery 2_79: 446236968884557399
+      Cemetery 2_8: -7003903535648362091
+      Cemetery 2_80: -5451597577635407035
+      Cemetery 2_81: -969776685280387895
+      Cemetery 2_82: -6890752470786682549
+      Cemetery 2_83: 8329827183207890799
+      Cemetery 2_84: 2348885249168363864
+      Cemetery 2_85: -7408174649055977668
+      Cemetery 2_86: -4013818061430471785
+      Cemetery 2_87: 8815163922557208090
+      Cemetery 2_88: -3532635589953171347
+      Cemetery 2_89: -2693360623827496306
+      Cemetery 2_9: 301481164643548367
+      Cemetery 2_90: 3279125462905674993
+      Cemetery 2_91: -1263466975641155921
+      Cemetery 2_92: -1620373016654385354
+      Cemetery 2_93: -3207489336231578304
+      Cemetery 2_94: -8043123198821474156
+      Cemetery 2_95: 876711607228065090
+      Cemetery 2_96: 5696554576258633824
+      Cemetery 2_97: -4149952519334589657
+      Cemetery 2_98: -1316199382201175205
+      Cemetery 2_99: -7212524611430296555
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

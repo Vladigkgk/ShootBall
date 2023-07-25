@@ -594,7 +594,7 @@ TextureImporter:
       213: 890620218093599930
     second: Cemetery_202
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -615,6 +615,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -653,6 +654,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -680,6 +682,42 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1354,6 +1392,38 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Cemetery_0: 5535881783676608107
+      Cemetery_1: -5052686834197527948
+      Cemetery_10: -2479664006028663955
+      Cemetery_11: 3777633014124246841
+      Cemetery_14: -4357076823613515660
+      Cemetery_15: 4551328323413959392
+      Cemetery_17: -9000837857872576660
+      Cemetery_18: -106744677133436046
+      Cemetery_19: -2921388182658535761
+      Cemetery_2: 3465781855541536029
+      Cemetery_21: 1498805614986870768
+      Cemetery_22: 2597375345526573165
+      Cemetery_23: -8575659774004569295
+      Cemetery_24: 8291377925866790643
+      Cemetery_26: 2266454504708729379
+      Cemetery_28: -8407511133597295431
+      Cemetery_29: 2873769529562545223
+      Cemetery_3: 6130091995595376605
+      Cemetery_31: 2550238479513988572
+      Cemetery_32: 414228140520694976
+      Cemetery_33: 1718383021937020338
+      Cemetery_34: -5755904894542182744
+      Cemetery_36: 1924725989235350772
+      Cemetery_37: -4061087507458455971
+      Cemetery_39: -1228084419366733149
+      Cemetery_4: -6780311545870502837
+      Cemetery_40: 4290917003567023967
+      Cemetery_5: 8561465560003450142
+      Cemetery_6: 1597032718201396142
+      Cemetery_8: -791140614595005742
+      Cemetery_9: -8346896363508173234
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

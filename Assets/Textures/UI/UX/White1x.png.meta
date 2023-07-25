@@ -210,7 +210,7 @@ TextureImporter:
       213: 1051616106488411404
     second: White1x_68
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -231,6 +231,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -269,6 +270,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 1
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -296,6 +298,42 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1726,6 +1764,74 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      White1x_0: 7313567994005474857
+      White1x_1: -2711880246088704233
+      White1x_10: -1855081403666877158
+      White1x_11: -2705256027124512904
+      White1x_12: -96697752539967589
+      White1x_13: -2706171221661658738
+      White1x_14: -6568297859206974128
+      White1x_15: 2243465325918667000
+      White1x_16: -389801967110356465
+      White1x_17: -6946084282967123743
+      White1x_18: 7901664113164557110
+      White1x_19: -5510486524372898900
+      White1x_2: 273813130277787431
+      White1x_20: -5533970502095352959
+      White1x_21: 48459481529484253
+      White1x_22: 6168371913910270773
+      White1x_23: -3413340616014947771
+      White1x_24: 6981094772468566764
+      White1x_26: 2426809322189135078
+      White1x_28: -2472487979673705901
+      White1x_29: 408214404726541302
+      White1x_3: -4421932135199927422
+      White1x_30: 959440321841042211
+      White1x_31: 2805938371311294551
+      White1x_32: -4280567446115236594
+      White1x_33: 7849548006512801997
+      White1x_34: -8659398583973180335
+      White1x_35: 3210214302338316769
+      White1x_36: 496507799960281670
+      White1x_37: 1546405458315454699
+      White1x_38: -1563506953269651181
+      White1x_39: 6939036296278212944
+      White1x_4: 3839840329365971483
+      White1x_40: -2274135819417317252
+      White1x_41: 3341477991738250924
+      White1x_42: 4045102487520541922
+      White1x_43: 2074691213171790935
+      White1x_44: -2534413073804399766
+      White1x_45: -8571483489919650146
+      White1x_46: 7362779102743418937
+      White1x_47: 583225236442343825
+      White1x_48: 2803927425010198777
+      White1x_49: 8327892257188896641
+      White1x_5: -38940182503377908
+      White1x_50: -5810228841316286882
+      White1x_51: 5178094471088234122
+      White1x_52: 6162495967717080596
+      White1x_53: 5685642313370555096
+      White1x_54: -1274265704145625286
+      White1x_55: -4146775575298440217
+      White1x_56: -5582600369470079060
+      White1x_57: -1284379933670242451
+      White1x_58: -5887189882020611976
+      White1x_59: 8237198664515149390
+      White1x_6: 2384134662020456564
+      White1x_60: -9221008692037873849
+      White1x_61: -6882220970009911758
+      White1x_62: 302107987869433989
+      White1x_63: -1395701202904820175
+      White1x_64: 5374320541366633803
+      White1x_65: -9192342541419933238
+      White1x_66: -2566958212990091642
+      White1x_67: -5263837104671853558
+      White1x_68: 1051616106488411404
+      White1x_7: -1648439425259357775
+      White1x_8: -864390968602194338
+      White1x_9: 5682093923230779186
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
